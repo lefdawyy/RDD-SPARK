@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ad353479-0d90-435e-80e9-8982b7188c00" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Main.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/documents/doc1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/documents/doc1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/documents/doc2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/documents/doc2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/documents/doc3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/documents/doc3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Main.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Main.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/Main$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/Main$.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,16 +49,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/lefdawyy/RDD-project",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lefdawyy/SOLID-Principles&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\lefdawyy\RDD-project\src" />
@@ -78,11 +83,35 @@
       <workItem from="1665585957791" duration="1670000" />
       <workItem from="1665599993661" duration="6071000" />
       <workItem from="1665654013063" duration="21460000" />
-      <workItem from="1665696002922" duration="338000" />
+      <workItem from="1665696002922" duration="1511000" />
+      <workItem from="1665699341471" duration="716000" />
+      <workItem from="1665700159486" duration="87000" />
+      <workItem from="1665742912095" duration="5815000" />
+      <workItem from="1665767369405" duration="17000" />
+      <workItem from="1665834126662" duration="4312000" />
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1665696531189</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665696531189</updated>
+    </task>
+    <task id="LOCAL-00002" summary=".">
+      <created>1665696584307</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665696584307</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>
